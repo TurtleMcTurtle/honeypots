@@ -15,7 +15,7 @@ readme = "README.rst"
 # ToDo: fix smtp incompatibility with 3.12
 requires-python = ">=3.8"
 dependencies = [
-    "twisted==24.10.0",
+    "twisted==26.10.0rc1",
     "psutil==5.9.0",
     "psycopg[binary]",
     "pycryptodome==3.19.1",
