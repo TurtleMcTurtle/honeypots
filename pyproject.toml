@@ -22,7 +22,7 @@ dependencies = [
     "requests==2.33.0",
     "requests[socks]==2.33.0",
     "impacket==0.9.24",
-    "paramiko==3.5.0",
+    "paramiko==5.0.0",
     "scapy",
     "service-identity==21.1.0",
     "netifaces==0.11.0",
